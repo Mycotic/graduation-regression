@@ -29,5 +29,18 @@ For the final presentation detailing our project :
 ### Visualizations
 
 ## Conclusion
+* Specialized students groups such English Language learners and Special Ed. students have lower graduation rates.
+
+* Minority Groups such as Asians and Black students also graduate at a lower rate.
+
+* However, as the absolute number of a group of students increase in a school, their graduation rate decreases at a much lower rate and eventually begins to increase again.
+
 
 ### Further Analysis
+- We can use financial information like household income to analyze its effect on graduation rate on top
+of the demographics.
+
+- How does the geographic location factor into getting into certain schools for minority groups?
+
+- Use population graduation rates of minorities as a balancing feature
+
