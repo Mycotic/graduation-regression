@@ -1,5 +1,6 @@
 # Module 2 Final Project - Predicting NYC Public School Graduation Rates
 Numen Rubino and Yasir Karim
+
 Sources: NYC Open Data
 ## Introduction
 We set out to use linear regression to solve a certain problem. Our approach was driven by our desire to work on an education sector related problem. Our search for suitable datasets was conducted keeping that goal in mind. We selected to work with data extracted from the website New York City Open Data. We setteld on predicting graduation rates based on the collected High School data.
@@ -8,11 +9,11 @@ We found two datasets fit for this project. One of them had graduation rate, cla
 
 For analysis and cleaning on the csv files from NYC Open Data website :
 
-`see: filename.ipynb`
+`see: Data_Cleaning_v1.ipynb`
 
 For the modelling process on the train data and final prediction on the holdout :
 
-`see: filename.ipynb`
+`see: Regression-on-full-train.ipynb`
 
 For the final presentation detailing our project :
 
@@ -23,10 +24,10 @@ For the final presentation detailing our project :
 ```
 1. How do different demographics effect graduation rates in NYC High School?
 2. Do minority students graduate at a lesser rate than White students?
-3.
+3. Do certain groups of students perform better when they are in an isolated environment?
+
 ```
 
-### Visualizations
 
 ## Conclusion
 * Specialized students groups such English Language learners and Special Ed. students have lower graduation rates.
@@ -34,6 +35,13 @@ For the final presentation detailing our project :
 * Minority Groups such as Asians and Black students also graduate at a lower rate.
 
 * However, as the absolute number of a group of students increase in a school, their graduation rate decreases at a much lower rate and eventually begins to increase again.
+
+### Applications
+* Graduation requirements might need to be revised for specialized groups.
+
+* Further assistance needs to be provided to minority students like the SEEK program of CUNY
+
+* Revise acceptance policies or affirmative action policies.
 
 
 ### Further Analysis
