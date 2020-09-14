@@ -9,15 +9,15 @@ We found two datasets fit for this project. One of them had graduation rate, cla
 
 For analysis and cleaning on the csv files from NYC Open Data website :
 
-`see: Data_Cleaning_v1.ipynb`
+`see:` [Data_Cleaning_v1.ipynb](https://github.com/Mycotic/graduation-regression/blob/master/Data_Cleaning_v1.ipynb)
 
 For the modelling process on the train data and final prediction on the holdout :
 
-`see: Regression-on-full-train.ipynb`
+`see:` [Regression-on-full-train.ipynb](https://github.com/Mycotic/graduation-regression/blob/master/Regression-on-full-train.ipynb)
 
 For the final presentation detailing our project :
 
-`see: presentation.pdf`
+`see:` [Regression_presentation.pdf](https://github.com/Mycotic/graduation-regression/blob/master/Regression_presentation.pdf)
 
 ### Queries:
 
